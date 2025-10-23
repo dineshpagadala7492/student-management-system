@@ -20,7 +20,7 @@ A Java Swing-based desktop application for managing student records with MySQL.
 4. Run `Main.java`.
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot 2025-10-24 014255.png)
 
 ## 💡 Author
 **Dinesh**
